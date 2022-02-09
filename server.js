@@ -13,7 +13,7 @@ const io = new Server(server);
 const { db } = require("./main/Database.js");
 var CronJob = require('cron').CronJob;
 require('dotenv').config();
-
+const port = process.env.PORT || 7000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }))
 app.use(router);

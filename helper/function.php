@@ -3,7 +3,7 @@
 session_start();
 date_default_timezone_set('Asia/Kolkata');
 define('BASE_URL', '');
-define('URL_WA', 'https://whatsapchandresh.herokuapp.com/');
+define('URL_WA', 'https://chand-whatsap.herokuapp.com/');
 define('LICENSE_KEY', 'b2eed97a-abc0-44ab-ab03-e7ad1edfa89b');
 $host = "localhost";
 
