@@ -1,0 +1,47 @@
+[23-Jan-2022 17:49:46 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 42
+[23-Jan-2022 17:49:46 Asia/Kolkata] https://v3.dizitalsurface.com/send-blast
+[23-Jan-2022 17:49:46 Asia/Kolkata] PHP Warning:  Illegal string offset 'status' in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[23-Jan-2022 17:49:46 Asia/Kolkata] PHP Warning:  Illegal string offset 'msg' in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 63
+[23-Jan-2022 17:59:41 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 42
+[23-Jan-2022 17:59:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[23-Jan-2022 17:59:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 63
+[23-Jan-2022 18:00:51 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 42
+[23-Jan-2022 18:15:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/php/Messages.php on line 78
+[23-Jan-2022 18:15:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/php/Messages.php on line 81
+[23-Jan-2022 18:15:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 69
+[23-Jan-2022 18:15:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 74
+[23-Jan-2022 18:19:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/php/Messages.php on line 78
+[23-Jan-2022 18:19:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/php/Messages.php on line 81
+[23-Jan-2022 18:19:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 73
+[23-Jan-2022 18:19:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 78
+[23-Jan-2022 18:45:21 Asia/Kolkata] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/dizital/v3.dizitalsurface.com/php/Messages.php on line 84
+[23-Jan-2022 18:45:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 18:45:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 77
+[23-Jan-2022 18:56:25 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 73
+[23-Jan-2022 18:58:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 18:58:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 77
+[23-Jan-2022 20:06:26 Asia/Kolkata] PHP Notice:  Undefined index: msgfooter in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 43
+[23-Jan-2022 20:06:28 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 20:08:00 Asia/Kolkata] PHP Notice:  Undefined index: msgfooter in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 43
+[23-Jan-2022 20:08:02 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 20:12:02 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 20:16:31 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 20:18:14 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 72
+[23-Jan-2022 20:20:07 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[23-Jan-2022 22:38:26 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 53
+[23-Jan-2022 22:39:01 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[23-Jan-2022 22:59:51 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/blast.php on line 42
+[23-Jan-2022 23:00:32 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[23-Jan-2022 23:38:52 Asia/Kolkata] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/blast.php on line 50
+[23-Jan-2022 23:39:40 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[23-Jan-2022 23:40:42 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[23-Jan-2022 23:41:15 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[24-Jan-2022 05:39:42 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[24-Jan-2022 09:29:53 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[24-Jan-2022 11:45:32 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
+[24-Jan-2022 20:16:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 57
+[24-Jan-2022 20:16:13 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[24-Jan-2022 20:58:44 Asia/Calcutta] PHP Notice:  Undefined index: delay in /home/dizital/v3.dizitalsurface.com/ajax/blast.php on line 42
+[24-Jan-2022 21:01:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[24-Jan-2022 21:02:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 62
+[24-Jan-2022 21:10:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/dizital/v3.dizitalsurface.com/ajax/sendmsg.php on line 58
