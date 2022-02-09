@@ -2,8 +2,8 @@
 
 session_start();
 date_default_timezone_set('Asia/Kolkata');
-define('BASE_URL', 'D:/xampp/htdocs/whatsap/');
-define('URL_WA', 'http://localhost/whatsap/');
+define('BASE_URL', '');
+define('URL_WA', 'https://whatsapchandresh.herokuapp.com/');
 define('LICENSE_KEY', 'b2eed97a-abc0-44ab-ab03-e7ad1edfa89b');
 $host = "localhost";
 
